@@ -4,8 +4,14 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
-***Version 1.2.0:***
+***Version 1.2.1:***
+  - EZ Pole count added
+  - Added option to process a date range instead of a single date
+  - EZ Pole structure numbers are italicized and in bold text
+
+***Version 1.2.1:***
   - "Distribution" and "Transmission" buttons changed to "GIS vs EOD vs Upload Check."
+
 ***Version 1.2.0:***
   - Distribution and Transmission buttons now add new sheets for each team that worked at the given date and compare the structure IDs they reported in GIS and Upload Check
 
