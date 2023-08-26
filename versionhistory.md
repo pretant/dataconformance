@@ -4,7 +4,11 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
-***Version 1.2.1:***
+***Version 1.4.0:***
+  - Added "Field Time" button that calculates the flight time of each team per day using the date taken metadata of the images.
+  - "GIS vs EOD vs Upload Check" for Distribution now creates an analysis table for Inspectors regarding their P1, P2 and P3 notifications.
+
+***Version 1.3.0:***
   - EZ Pole count added
   - Added option to process a date range instead of a single date
   - EZ Pole structure numbers are italicized and in bold text
