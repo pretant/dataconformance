@@ -4,6 +4,12 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.0.0:***
+  - New and improved UI
+  - "Data Cross-Check", formerly GIS vs EOD vs Upload Check, now keeps track of conformance score (1 for conformance, 0 for non-conformance)
+  - Added "Conformance Rate" button under "Other Tools" to calculate conformance rates for each team.
+  - Minor improvements and bug fixes
+
 ***Version 1.4.1:***
   - Field Time now shows size of each team's data
   - Minor improvements and bug fixes
