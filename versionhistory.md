@@ -4,6 +4,10 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.0.4:*** (4/11/2024)
+  - "Field Time" now deletes hidden files before processing the directory
+  - Minor improvements and bug fixes
+
 ***Version 2.0.3:***
   - Script now properly keep the latest entry when duplicates are found in End-of-Day file
   - Resolved an issue where the end date dialog box was initially inactive, requiring users to click on it before they could begin typing.
