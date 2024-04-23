@@ -4,6 +4,11 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.1.0:*** (4/23/2024)
+  - Changed date inputs from a text input field into a calendar widget.
+  - Fixed a bug where "Data Cross-Check" gets stuck after choosing the dates to process.
+  - Minor improvements and bug fixes
+
 ***Version 2.0.4:*** (4/11/2024)
   - "Field Time" now deletes hidden files before processing the directory
   - Minor improvements and bug fixes
